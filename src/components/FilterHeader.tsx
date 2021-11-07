@@ -1,5 +1,4 @@
 import React from 'react';
-import './../styles/FilterHeader.css';
 
 const FilterHeader = () => {
    return (
